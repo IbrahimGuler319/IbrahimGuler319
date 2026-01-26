@@ -4,16 +4,13 @@
 
 <div align="center">
   <a href="mailto:brhmguler319@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mesaj_Gönder-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=flat-square&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://linkedin.com/in/ibrahim-güler-087826269/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ibrahim-g%C3%BCler-087826269/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://ibrahim-guler.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Web_Sitem-121212?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/IbrahimGuler319">
-    <img src="https://img.shields.io/badge/Github-Takip_Et-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://ibrahimguler.online/">
+    <img src="https://img.shields.io/badge/Portfolio-ibrahimguler.online-222222?style=flat-square&logo=google-chrome&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -22,15 +19,15 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>👋 Hakkımda</h3>
+      <h3>👋 About Me</h3>
       <p>
-        <b>Mobile Software Engineer</b> olarak ölçeklenebilir ve yüksek performanslı mobil çözümler üretiyorum.
+        I am a <b>Mobile Software Engineer</b> specializing in building scalable, high-performance applications. I possess a strong engineering foundation bridging the gap between <b>Cross-Platform</b> UI and <b>Native</b> system performance.
       </p>
       <ul>
-        <li>📱 <b>Uzmanlık:</b> Flutter, React Native, Native Android (Kotlin/Java)</li>
+        <li>📱 <b>Mobile:</b> Flutter, React Native, Native Android (Kotlin/Java)</li>
         <li>⚙️ <b>Backend:</b> Go (Golang), Fiber, WebSockets</li>
-        <li>🎓 <b>Eğitim:</b> Bilgisayar Müh. (%100 İngilizce) @ MSKU</li>
-        <li>🔭 <b>Şu an:</b> Virtus Ar-Ge'de Mobil Uygulama Geliştiricisi.</li>
+        <li>🎓 <b>Education:</b> B.Sc. Computer Engineering (100% English)</li>
+        <li>🔭 <b>Currently:</b> Mobile Developer at Virtus R&D.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
@@ -44,15 +41,15 @@
 
 ---
 
-### 💼 Profesyonel Deneyim
+### 💼 Professional Experience
 
-| **Şirket & Rol** | **Detaylar** |
+| **Company & Role** | **Key Contributions** |
 | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=flutter" width="20"/> **Virtus Ar-Ge Yazılım A.Ş.**<br><i>Mobile Software Engineer</i><br>*(2023 - Günümüz)* | • Flutter ile çapraz platform (iOS/Android) mobil uygulamalar.<br>• BLoC ve Provider ile Clean Architecture mimarisi.<br>• Go (Golang) backend servis entegrasyonları.<br>• WebSocket ile gerçek zamanlı veri akışı. |
+| <img src="https://skillicons.dev/icons?i=flutter" width="20"/> **Virtus R&D Software Corp.**<br><i>Mobile Software Engineer</i><br>*(2023 - Present)* | • Engineered scalable mobile apps ensuring high performance on iOS & Android.<br>• Architected robust state management using **BLoC** & **Provider** patterns.<br>• Integrated **Go** backend services and **WebSockets** for real-time data flow.<br>• Collaborated with UI/UX teams to deliver pixel-perfect interfaces. |
 
 ---
 
-### 🚀 Seçilmiş Projeler
+### 🚀 Selected Projects
 
 <table>
   <tr>
@@ -62,12 +59,12 @@
       </a>
       <br>
       <h3>📍 QuestPin</h3>
-      <p>Konum tabanlı sosyal etkileşim platformu.</p>
+      <p>Location-based social interaction platform.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Go_Lang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       </p>
-      <p>🌟 <b>5000+ İndirme</b> | 4.5 Puan</p>
+      <p>🌟 <b>5000+ Downloads</b> | 4.5 Rating</p>
     </td>
     <td width="50%" align="center">
       <a href="#">
@@ -75,12 +72,12 @@
       </a>
       <br>
       <h3>💻 Real-Time Collab</h3>
-      <p>WebSocket tabanlı masaüstü iş birliği aracı.</p>
+      <p>Desktop tool for shared virtual rooms.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter_Desktop-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socket.io&logoColor=white"/>
       </p>
-      <p>⚡ Düşük gecikmeli veri senkronizasyonu</p>
+      <p>⚡ Low-latency signaling & data sync</p>
     </td>
   </tr>
   <tr>
@@ -90,7 +87,7 @@
       </a>
       <br>
       <h3>🐾 PetApp Ecosystem</h3>
-      <p>Full-stack mobil çözüm ve backend.</p>
+      <p>Full-stack mobile solution & custom backend.</p>
       <p>
          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
          <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -102,7 +99,7 @@
       </a>
       <br>
       <h3>📦 Editable Text Widget</h3>
-      <p>Geliştiriciler için açık kaynak paket.</p>
+      <p>Open source package for developers.</p>
       <p>
          <img src="https://img.shields.io/badge/Open_Source-pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white"/>
       </p>
