@@ -1,107 +1,116 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0056D2&height=200&section=header&text=Ibrahim%20Guler&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Mobile%20Software%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0056D2&height=220&section=header&text=Ibrahim%20Guler&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   <a href="mailto:brhmguler319@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brhmguler319%40gmail.com-0056D2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Mesaj_Gönder-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ibrahim-güler-087826269/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ibrahimguler.online/"> <img src="https://img.shields.io/badge/Portfolio-Website-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://ibrahim-guler.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Web_Sitem-121212?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/IbrahimGuler319">
+    <img src="https://img.shields.io/badge/Github-Takip_Et-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <h3>👋 Hakkımda</h3>
-  <p width="600px">
-    <b>Mobile Software Engineer</b> olarak Flutter, React Native ve Native Android (Kotlin/Java) ekosistemlerinde uzmanlaşmış bir mühendisim. Sadece arayüz değil, <b>Go (Golang)</b> ve Firebase kullanarak ölçeklenebilir backend mimarileri kuruyorum.
-  </p>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👋 Hakkımda</h3>
+      <p>
+        <b>Mobile Software Engineer</b> olarak ölçeklenebilir ve yüksek performanslı mobil çözümler üretiyorum.
+      </p>
+      <ul>
+        <li>📱 <b>Uzmanlık:</b> Flutter, React Native, Native Android (Kotlin/Java)</li>
+        <li>⚙️ <b>Backend:</b> Go (Golang), Fiber, WebSockets</li>
+        <li>🎓 <b>Eğitim:</b> Bilgisayar Müh. (%100 İngilizce) @ MSKU</li>
+        <li>🔭 <b>Şu an:</b> Virtus Ar-Ge'de Mobil Uygulama Geliştiricisi.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>🛠 Tech Stack</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,go,kotlin,java,react,firebase,docker,git,mysql,vscode,androidstudio&perline=4&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <h3>🛠 Tech Stack & Yetenekler</h3>
-  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go_Lang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 💼 Profesyonel Deneyim
 
-</div>
-
----
-
-### 💼 Deneyim & Eğitim
-
-| **Experience** | **Education** |
+| **Şirket & Rol** | **Detaylar** |
 | :--- | :--- |
-| **Mobile Software Engineer** <br> *Virtus Ar-Ge Yazılım A.Ş. (2023 - Present)* <br> • Engineered scalable mobile apps using Flutter. <br> • Architected BLoC & Provider patterns. <br> • Integrated Go backend services & WebSockets. | **B.Sc. in Computer Engineering** <br> *Muğla Sıtkı Koçman University (Expected 2026)* <br> • 100% English Curriculum. <br> • Active focus on Mobile & Backend Systems. |
+| <img src="https://skillicons.dev/icons?i=flutter" width="20"/> **Virtus Ar-Ge Yazılım A.Ş.**<br><i>Mobile Software Engineer</i><br>*(2023 - Günümüz)* | • Flutter ile çapraz platform (iOS/Android) mobil uygulamalar.<br>• BLoC ve Provider ile Clean Architecture mimarisi.<br>• Go (Golang) backend servis entegrasyonları.<br>• WebSocket ile gerçek zamanlı veri akışı. |
 
 ---
 
-### 🚀 Portfolio & Projeler
-
-Kişisel sitemdeki "Grid" yapısına benzer şekilde projelerimi aşağıda inceleyebilirsiniz:
+### 🚀 Seçilmiş Projeler
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>📍 QuestPin</h3>
       <a href="https://apps.apple.com/uz/app/questpin/id6752894152">
-        <img src="https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?q=80&w=600&auto=format&fit=crop" width="100%" alt="QuestPin"/>
+        <img src="https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius:10px;" alt="QuestPin"/>
       </a>
-      <br><br>
-      <b>Stack:</b> Flutter • Go • WebSockets<br>
-      Geo-social platform featuring real-time feeds.<br>
-      🌟 <b>5000+ Downloads</b> | 4.5 Rating
+      <br>
+      <h3>📍 QuestPin</h3>
+      <p>Konum tabanlı sosyal etkileşim platformu.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Go_Lang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      </p>
+      <p>🌟 <b>5000+ İndirme</b> | 4.5 Puan</p>
     </td>
     <td width="50%" align="center">
-      <h3>💻 Real-Time Collab</h3>
       <a href="#">
-        <img src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=600&auto=format&fit=crop" width="100%" alt="Collaboration"/>
+        <img src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius:10px;" alt="Collab"/>
       </a>
-      <br><br>
-      <b>Stack:</b> Flutter Desktop • Go<br>
-      Desktop tool for shared virtual rooms with low-latency signaling.
+      <br>
+      <h3>💻 Real-Time Collab</h3>
+      <p>WebSocket tabanlı masaüstü iş birliği aracı.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter_Desktop-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socket.io&logoColor=white"/>
+      </p>
+      <p>⚡ Düşük gecikmeli veri senkronizasyonu</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🐾 PetApp Ecosystem</h3>
       <a href="#">
-        <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=600&auto=format&fit=crop" width="100%" alt="PetApp"/>
+        <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius:10px;" alt="PetApp"/>
       </a>
-      <br><br>
-      <b>Stack:</b> Full Stack • Docker<br>
-      Solution with custom Go backend & Auth flows.
+      <br>
+      <h3>🐾 PetApp Ecosystem</h3>
+      <p>Full-stack mobil çözüm ve backend.</p>
+      <p>
+         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      </p>
     </td>
     <td width="50%" align="center">
-      <h3>📦 Editable Text Widget</h3>
       <a href="https://pub.dev/packages/editable_text_widget">
-        <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=600&auto=format&fit=crop" width="100%" alt="Widget"/>
+        <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius:10px;" alt="Widget"/>
       </a>
-      <br><br>
-      <b>Stack:</b> Open Source (pub.dev)<br>
-      Reusable Flutter package focused on clean API design.
+      <br>
+      <h3>📦 Editable Text Widget</h3>
+      <p>Geliştiriciler için açık kaynak paket.</p>
+      <p>
+         <img src="https://img.shields.io/badge/Open_Source-pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
   <br>
-  <a href="mailto:brhmguler319@gmail.com">
-    <img src="https://img.shields.io/badge/Bana_Ulaşın-Mesaj_Gönder-0056D2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0056D2&height=60&section=footer"/>
 </div>
