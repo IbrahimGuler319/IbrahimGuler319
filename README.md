@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ibrahim-güler-087826269/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://ibrahim-guler.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Website-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://ibrahimguler.online/"> <img src="https://img.shields.io/badge/Portfolio-Website-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
 
