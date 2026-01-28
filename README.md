@@ -71,8 +71,8 @@
         <img src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius:10px;" alt="Collab"/>
       </a>
       <br>
-      <h3>💻 Real-Time Collab</h3>
-      <p>Desktop tool for shared virtual rooms.</p>
+      <h3>💻 Detective Game</h3>
+      <p>Desktop game for playing with friends.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter_Desktop-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socket.io&logoColor=white"/>
@@ -86,7 +86,7 @@
         <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius:10px;" alt="PetApp"/>
       </a>
       <br>
-      <h3>🐾 PetApp Ecosystem</h3>
+      <h3>🐾 PetApp</h3>
       <p>Full-stack mobile solution & custom backend.</p>
       <p>
          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
