@@ -27,7 +27,7 @@
         <li>📱 <b>Mobile:</b> Flutter, React Native, Native Android (Kotlin/Java)</li>
         <li>⚙️ <b>Backend:</b> Go (Golang), Fiber, WebSockets</li>
         <li>🎓 <b>Education:</b> B.Sc. Computer Engineering (100% English)</li>
-        <li>🔭 <b>Currently:</b> Mobile Developer at Virtus R&D.</li>
+        <li>🔭 <b>Currently:</b> Mobile Developer at Virtus R&D. </li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
