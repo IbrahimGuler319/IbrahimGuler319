@@ -19,7 +19,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>👋 About Me</h3>
+      <h3>👋 About Me </h3>
       <p>
         I am a <b>Mobile Software Engineer</b> specializing in building scalable, high-performance applications. I possess a strong engineering foundation bridging the gap between <b>Cross-Platform</b> UI and <b>Native</b> system performance.
       </p>
