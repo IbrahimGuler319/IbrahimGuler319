@@ -24,7 +24,7 @@
         I am a <b>Mobile Software Engineer</b> specializing in building scalable, high-performance applications. I possess a strong engineering foundation bridging the gap between <b>Cross-Platform</b> UI and <b>Native</b> system performance.
       </p>
       <ul>
-        <li>📱 <b>Mobile:</b> Flutter, React Native, Native Android (Kotlin/Java)</li>
+        <li>📱 <b>Mobile:</b> Flutter, React Native, Native Android (Kotlin/Java) </li>
         <li>⚙️ <b>Backend:</b> Go (Golang), Fiber, WebSockets</li>
         <li>🎓 <b>Education:</b> B.Sc. Computer Engineering (100% English)</li>
         <li>🔭 <b>Currently:</b> Mobile Developer at Virtus R&D. </li>
